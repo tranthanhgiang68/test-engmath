@@ -1,0 +1,6 @@
+{
+  "name": "EngMath",
+  "description": "Trang đặt lịch tư vấn chương trình Chuyên luyện thi Toán 1-1 cùng Ms. Thùy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
